@@ -1,4 +1,3 @@
-User-agent: *
-Allow: /
+User-agent: Yeti
+Allow:/
 
-Sitemap: https://lch5003-ops.github.io/sitemap.xml
